@@ -1,0 +1,18 @@
+.topnav {
+    background-color: black;
+    /* height: 100px; */
+}
+.c2{
+
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10px;
+   margin-right: 10px; 
+
+
+}
+.c1{
+    animation-name: im;
+    animation-duration: 2s;
+}
