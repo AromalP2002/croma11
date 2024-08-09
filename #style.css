@@ -2,7 +2,7 @@
     background-color: black;
     /* height: 100px; */
 }
-.c2{
+/* .c2{
 
     padding: 10px;
     display: flex;
@@ -11,8 +11,11 @@
    margin-right: 10px; 
 
 
-}
+} */
 .c1{
     animation-name: im;
     animation-duration: 2s;
+}
+.co1{
+    padding-bottom: 50px;
 }
